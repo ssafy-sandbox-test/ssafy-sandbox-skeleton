@@ -1,2 +1,2 @@
 # ssafy-sandbox-skeleton
-Skeleton codes about ssafy sandbox
+Skeleton codes for ssafy sandbox
