@@ -41,4 +41,5 @@
 
 
 4. 제목의 경우, `[feat] id - 제목` 의 양식으로 작성해주세요!
-![pr4](https://github.com/user-attachments/assets/855b6cbb-e724-41d5-9fe6-1b487b6dc5e1)
+![pr4](https://github.com/user-attachments/assets/4bcbdc8d-c11b-4ea8-90bd-e8f504440ac1)
+
