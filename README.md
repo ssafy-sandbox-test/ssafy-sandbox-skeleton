@@ -40,5 +40,5 @@
 ![pr3](https://github.com/user-attachments/assets/43c30220-11e9-4385-89ec-5142b5da851a)
 
 
-4. 제목의 경우, `[기능 메인; feat, fix] id - 한 내용 요약` 의 양식으로 작성해주세요!
+4. 제목의 경우, `[feat] id - 제목` 의 양식으로 작성해주세요!
 ![pr4](https://github.com/user-attachments/assets/855b6cbb-e724-41d5-9fe6-1b487b6dc5e1)
