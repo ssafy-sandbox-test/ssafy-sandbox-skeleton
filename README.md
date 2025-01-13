@@ -17,9 +17,10 @@
   - `Description`은 지워도 상관없습니다
   - `Copy the main branch only` option을 꼭 체크해주세요!
   - 모든 항목을 확인하였으면 `Create fork`를 클릭해주세요
-  
-- 원하는 Build Tool에 따라 사용하세요
+
+- 자신의 repository에서 clone 후 원하는 Build Tool에 따라 사용하세요!
 
   - `sandbox_gradle`: Gradle 기반 프로젝트
   - `sandbox_maven`: Maven 기반 프로젝트
+  - `IntelliJ`를 사용하는 경우 `Open` -> `build.gradle` 또는 `pom.xml` 클릭 -> `Open as Project`와 같이 프로젝트를 열면 됩니다
     
