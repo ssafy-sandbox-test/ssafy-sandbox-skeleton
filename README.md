@@ -1,9 +1,7 @@
-# ssafy-sandbox-skeleton
-
+![pr2](https://github.com/user-attachments/assets/80ea9993-6656-42a3-a58b-44099989bb45)# ssafy-sandbox-skeleton
 🌱 Spring Boot 기반의 Skeleton 코드, 초보를 위한 기본 템플릿!
 
 ## 사용법
-
 - **해당 repository를 직접 clone 해서 사용하지 말아주세요!**
 
 - 해당 repository를 자신의 repository로 fork 하기
@@ -25,5 +23,17 @@
   - `sandbox_gradle`: Gradle 기반 프로젝트
   - `sandbox_maven`: Maven 기반 프로젝트
   - `IntelliJ`를 사용하는 경우 `Open` -> `build.gradle` 또는 `pom.xml` 클릭 -> `Open as Project`와 같이 프로젝트를 열면 됩니다
+    
+- 코드 리뷰를 받고 싶다면, Pull requests를 생성하세요!
 
-- 코드 리뷰를 받고싶다면, Pull requests를 생성하세요!
+1. Pull requests 클릭
+![pr1](https://github.com/user-attachments/assets/28933f46-d337-4359-854a-b2d4432da977)
+
+2. New pull request 클릭
+![pr2](https://github.com/user-attachments/assets/b7e5ae4a-da65-444d-8600-7ae3f29ed140)
+
+3. repository와 branch 확인 후, Create pull request 클릭
+![pr3](https://github.com/user-attachments/assets/43c30220-11e9-4385-89ec-5142b5da851a)
+
+4. 제목의 경우, '[기능 메인; feat, fix] id - 한 내용 요약' 의 양식으로 작성해주세요!
+![pr4](https://github.com/user-attachments/assets/855b6cbb-e724-41d5-9fe6-1b487b6dc5e1)
