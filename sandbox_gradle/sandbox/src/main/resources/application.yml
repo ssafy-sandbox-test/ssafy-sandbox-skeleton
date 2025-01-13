@@ -1,9 +1,0 @@
-spring:
-  application:
-    name: sandbox
-
-  datasource:
-    driver-class-name:
-    url:
-    username:
-    password:
