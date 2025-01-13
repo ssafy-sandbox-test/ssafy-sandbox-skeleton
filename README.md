@@ -1,7 +1,9 @@
 # ssafy-sandbox-skeleton
+
 🌱 Spring Boot 기반의 Skeleton 코드, 초보를 위한 기본 템플릿!
 
 ## 사용법
+
 - **해당 repository를 직접 clone 해서 사용하지 말아주세요!**
 
 - 해당 repository를 자신의 repository로 fork 하기
@@ -23,4 +25,5 @@
   - `sandbox_gradle`: Gradle 기반 프로젝트
   - `sandbox_maven`: Maven 기반 프로젝트
   - `IntelliJ`를 사용하는 경우 `Open` -> `build.gradle` 또는 `pom.xml` 클릭 -> `Open as Project`와 같이 프로젝트를 열면 됩니다
-    
+
+- 코드 리뷰를 받고싶다면, Pull requests를 생성하세요!
