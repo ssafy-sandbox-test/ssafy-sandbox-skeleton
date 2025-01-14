@@ -24,3 +24,8 @@
   - `sandbox_maven`: Maven 기반 프로젝트
   - `IntelliJ`를 사용하는 경우 `Open` -> `build.gradle` 또는 `pom.xml` 클릭 -> `Open as Project`와 같이 프로젝트를 열면 됩니다
 
+<br/>
+
+자신의 코드로 리뷰를 받고 싶거나 skeleton 코드 또는 문서에 수정 요청 사항이 있으면 아래의 방식으로 `pull request`를 남겨주세요!
+
+[Pull Request 남기는 법](https://github.com/ssafy-sand-box/ssafy-sandbox-skeleton/blob/main/CONTRIBUTING.md)
