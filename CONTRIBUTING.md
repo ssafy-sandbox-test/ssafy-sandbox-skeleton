@@ -18,6 +18,8 @@
 
 ![pr3](https://github.com/user-attachments/assets/43c30220-11e9-4385-89ec-5142b5da851a)
 
-4. 제목의 경우, `[feat] id - 제목` 의 양식으로 작성해주세요!
+4. 제목의 경우, `[commit type] id - 제목` 의 양식으로 작성해주세요!
+
+   - commit type: feat, docs, chore ...
 
 ![pr4](https://github.com/user-attachments/assets/4bcbdc8d-c11b-4ea8-90bd-e8f504440ac1)
