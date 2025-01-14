@@ -1,9 +1,6 @@
 # 컨벤션 예시
 
-
 ## 🚩 Commit Convention
-
----
 
 ### Commit Message Structure
 
@@ -64,8 +61,6 @@ MyPageDTO에 정보를 담아 반환
 ```
 
 ## 🚩 Naming Convention
-
----
 
 - Branch Name
 
